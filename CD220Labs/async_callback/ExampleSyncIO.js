@@ -31,3 +31,5 @@ readFile2(filename2);
  
 // Log message after reading both files
 console.log('All done!');
+
+//Run this in the terminal: node ExampleSyncIO.js

@@ -29,3 +29,7 @@ methCall.then(
     // Logging an error message if the promise is rejected
     (err) => console.log("Error reading file")
 );
+
+//npm install --save prompt-sync
+
+//node asyncPromise.js

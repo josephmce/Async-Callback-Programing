@@ -27,3 +27,9 @@ const connectToURL = (url) => {
 connectToURL('https://raw.githubusercontent.com/ibm-developer-skills-network/lkpho-Cloud-applications-with-Node.js-and-React/master/CD220Labs/async_callback/sampleData.json');
 // Invalid URL
 connectToURL('https://raw.githubusercontent.com/ibm-developer-skills-network/lkpho-Cloud-applications-with-Node.js-and-React/master/CD220Labs/async_callback/sampleDate.json');
+
+//To run this code, we need to install axios package. Run the following command to install axios.
+//npm install --save axios
+
+//In the terminal window run the code with the following command.
+//node asyncAxiosRequest.js

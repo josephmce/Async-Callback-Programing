@@ -43,3 +43,5 @@ readFile2(filename2);
 
 // Log message after initiating the reading of both files
 console.log('All done!');
+
+//node ExampleAsyncIO.js
